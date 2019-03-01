@@ -7,9 +7,13 @@
     "@types/node": "11.10.0",
     "@types/react": "16.8.6",
     "@types/react-dom": "16.8.2",
+    "awesome-parser": "^1.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
+    "react-redux": "^6.0.1",
     "react-scripts": "2.1.5",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
     "typescript": "3.3.3333"
   },
   "scripts": {
@@ -28,6 +32,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@types/react-redux": "^7.0.1",
     "node-sass": "^4.11.0"
   }
 }
